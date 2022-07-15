@@ -1102,7 +1102,7 @@ and we can only return one value.
 
 Arrow functions can contain other arrow function, or also regular functions.
 
-The are very similar, so you might ask why they were introduced? The big difference with regular functions is when they are used as object methods. This is something we'll soon look into.
+They are very similar, so you might ask why they were introduced? The big difference with regular functions is when they are used as object methods. This is something we'll soon look into.
 
 ## Objects
 
