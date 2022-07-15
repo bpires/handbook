@@ -151,7 +151,7 @@ function App() {
 export default App
 ```
 
-An application built using React, or one of the other popular frontend frameworks like Vue and Svelte for example, is built using dozens of components.
+An application built using React, or one of the other popular frontend frameworks like Vue and Svelte, for example, is built using dozens of components.
 
 But let's start by analyzing this first component. I'm going to simplify this component code like this:
 
