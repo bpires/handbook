@@ -14,7 +14,7 @@ At the end of the book, you'll have a basic understanding of:
 
 Those topics will be the base upon which you will work on in other more advanced React courses.
 
-This book is especially oriented at JavaScript programmers new to React.
+This book is especially oriented towards JavaScript programmers new to React.
 
 React is a JavaScript library that aims to simplify development of visual interfaces.
 
