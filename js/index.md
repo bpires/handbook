@@ -972,7 +972,7 @@ function getData() {
 let result = getData()
 ```
 
-`result` now holds a string with the the `hi!` value.
+`result` now holds a string with the `hi!` value.
 
 You can only return one value.
 
