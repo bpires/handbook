@@ -426,7 +426,7 @@ Think about a form, for example. Each individual input element of the form is re
 
 A button is responsible for knowing if it's being clicked, or not. If it's on focus.
 
-A link is responsible for knowing if the mouse is hovering it.
+A link is responsible for knowing if the mouse is hovering over it.
 
 In React, or in any other components-based framework/library, all our applications are based and make heavy use of components state.
 
