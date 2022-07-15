@@ -1060,7 +1060,7 @@ let getData = () => {
 getData()
 ```
 
-If the function body contains just a single statement, you can omit the parentheses and write all on a single line:
+If the function body contains just a single statement, you can omit the parentheses and write it all on a single line:
 
 ```js
 const getData = () => console.log('hi!')
