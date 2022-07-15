@@ -871,7 +871,7 @@ Functions are a core, essential part of JavaScript.
 
 What is a function?
 
-A function is a block of code, self contained.
+A function is a block of code, self-contained.
 
 Here's a **function declaration**:
 
