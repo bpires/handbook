@@ -111,7 +111,7 @@ Some names are reserved for JavaScript internal use, and we can't use them as id
 
 ### Comments
 
-Comments are one of the most important part of any program. In any programming language. They are important because they let us annotate the code and add important information that otherwise would not be available to other people (or ourselves) reading the code.
+Comments are one of the most important parts of any program. In any programming language. They are important because they let us annotate the code and add important information that otherwise would not be available to other people (or ourselves) reading the code.
 
 In JavaScript, we can write a comment on a single line using `//`. Everything after `//` is not considered as code by the JavaScript interpreter.
 
