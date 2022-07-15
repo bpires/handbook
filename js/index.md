@@ -1006,7 +1006,7 @@ Arrow functions are a recent introduction to JavaScript.
 
 They are very often used instead of "regular" functions, the one I described in the previous chapter. You'll find both forms used everywhere.
 
-Visually, they allows you to write functions with a shorter syntax, from:
+Visually, they allow you to write functions with a shorter syntax, from:
 
 ```js
 function getData() {
