@@ -616,7 +616,7 @@ function App() {
 
 When the `click` event is fired on the button, React calls the event handler function.
 
-React supports a vast amount of types of events, like `onKeyUp`, `onFocus`,`onChange`, `onMouseDown`, `onSubmit` and many more.
+React supports a vast amount of types of events, like `onKeyUp`, `onFocus`, `onChange`, `onMouseDown`, `onSubmit` and many more.
 
 ## Lifecycle events in a React component
 
