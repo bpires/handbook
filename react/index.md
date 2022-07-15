@@ -327,7 +327,7 @@ And here's the result. Can you see the "Welcome!" message on the screen?
 
 ![](img/new-component.png)
 
-We say `WelcomeMessage` is a **child component** of App, and `App` is its parent componnet.
+We say `WelcomeMessage` is a **child component** of App, and `App` is its parent component.
 
 We're adding the `<WelcomeMessage />` component like if it was part of the HTML language.
 
