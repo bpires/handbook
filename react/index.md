@@ -375,7 +375,7 @@ Let's talk about this in the next section.
 
 One of the best features of React is that we can easily embed JavaScript into JSX.
 
-Other frontend frameworks, for example Angular and Vue, have their own specific ways to print JavaScript values in the template, or perform things like loops.
+Other frontend frameworks, for example, Angular and Vue, have their own specific ways to print JavaScript values in the template, or perform things like loops.
 
 React is not adding new things. Instead, it lets us use JavaScript in the JSX, by using curly brackets.
 
