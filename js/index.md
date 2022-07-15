@@ -1516,7 +1516,7 @@ This means that a line of code is executed, then the next one is executed, and s
 
 Everything is as you expect, and how it works in most programming languages.
 
-However there are times when you cannot just wait for a line of code to execute.
+However, there are times when you cannot just wait for a line of code to execute.
 
 You can't just wait 2 seconds for a big file to load, and halt the program completely.
 
