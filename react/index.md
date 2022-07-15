@@ -580,7 +580,7 @@ function Counter({ setCount }) {
 }
 ```
 
-You need to know that there are more advanced ways to manage data, which include the Context API and libraries like Redux, but those introduce more complexity and 90% of the times using those 2 ways I just explained are the perfect solution.
+You need to know that there are more advanced ways to manage data, which include the Context API and libraries like Redux, but those introduce more complexity and 90% of the time using those 2 ways I just explained are the perfect solution.
 
 ## Handling user events in React
 
