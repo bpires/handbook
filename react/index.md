@@ -106,7 +106,7 @@ so you can immediately start the app by going into the newly created application
 
 ![](img/cra-running.png)
 
-By default this command launches the app on your local port 3000, and it opens your browser showing you the welcome screen:
+By default, this command launches the app on your local port 3000, and it opens your browser showing you the welcome screen:
 
 ![](img/cra-browser.png)
 
