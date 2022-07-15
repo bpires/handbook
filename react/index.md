@@ -96,7 +96,7 @@ This is when it finished running:
 
 ![](img/create-react-app-finished.png)
 
-`create-react-app` created a file structure in the folder you told (`todolist` in this case), and initialized a [Git](https://flaviocopes.com/git/) repository.
+`create-react-app` created a file structure in the folder you told (`todolist` in this case) and initialized a [Git](https://flaviocopes.com/git/) repository.
 
 It also added a few commands in the `package.json` file:
 
