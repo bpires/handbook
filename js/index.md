@@ -392,7 +392,7 @@ Multiply two numbers
 
 ### The exponentiation operator (\*\*)
 
-Raise the first operand to the power second operand
+Raise the first operand to the power of the second operand
 
 ```js
 1 ** 2 //1
