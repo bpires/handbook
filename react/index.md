@@ -273,7 +273,7 @@ But a React component can also be created in the same file of another component 
 
 I generally use separate files when the number of lines in a file grows too much.
 
-To keep things simple let's create a component in the same `App.js` file.
+To keep things simple, let's create a component in the same `App.js` file.
 
 We're going to create a `WelcomeMessage` component:
 
