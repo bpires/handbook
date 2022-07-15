@@ -438,7 +438,7 @@ You import `useState` from React in this way:
 import React, { useState } from 'react'
 ```
 
-Calling `useState()`, you will get back a new state variable, an a function that we can call to alter its value.
+Calling `useState()`, you will get back a new state variable, as a function that we can call to alter its value.
 
 `useState()` accepts the initial value of the state item and returns an array containing the state variable, and the function you call to alter the state.
 
