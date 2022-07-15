@@ -329,7 +329,7 @@ And here's the result. Can you see the "Welcome!" message on the screen?
 
 We say `WelcomeMessage` is a **child component** of App, and `App` is its parent component.
 
-We're adding the `<WelcomeMessage />` component like if it was part of the HTML language.
+We're adding the `<WelcomeMessage />` component as if it was part of the HTML language.
 
 That's the beauty of React components and JSX: we can compose an application interface and use it like we're writing HTML.
 
