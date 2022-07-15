@@ -265,7 +265,7 @@ In the next section, we'll talk about how JSX lets you easily compose a UI, then
 
 As introduced in the last section, one of the main benefits of JSX is to make it very easy to build a UI.
 
-In particular, in a React component, you can import other React components, and you can embed them and display them.
+In particular, in a React component, you can import other React components, and you can embed and display them.
 
 A React component is usually created in its own file, because that's how we can easily reuse it (by importing it) in other components.
 
