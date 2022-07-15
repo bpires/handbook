@@ -669,7 +669,7 @@ useEffect(() => {
 }, [])
 ```
 
-You migth find yourself using this option a lot.
+You might find yourself using this option a lot.
 
 useEffect() is great for adding logs, accessing 3rd party APIs and much more.
 
