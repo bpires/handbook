@@ -226,7 +226,7 @@ export default App
 
 We previously ignored everything that was inside the `return` statement, and in this section we're going to talk about it.
 
-We call JSX everything inside wrapped inside the parentheses returned by the component:
+We call JSX everything wrapped inside the parentheses returned by the component:
 
 ```jsx
 <div className='App'>
@@ -253,7 +253,7 @@ And it's a bit strange to have this code inside a JavaScript file. This does not
 
 Under the hood, React will process the JSX and it will transform it into JavaScript that the browser will be able to interpret.
 
-So we're writing JSX, but in the end there's a translation step that makes it digestible to a JavaScript interpreter.
+So we're writing JSX but, in the end, there's a translation step that makes it digestible to a JavaScript interpreter.
 
 React gives us this interface for one reason: **it's easier to build UI interfaces using JSX**.
 
