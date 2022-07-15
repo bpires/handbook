@@ -257,7 +257,7 @@ So we're writing JSX but, in the end, there's a translation step that makes it d
 
 React gives us this interface for one reason: **it's easier to build UI interfaces using JSX**.
 
-Once you'll get more familiar with it, of course.
+Once you get more familiar with it, of course.
 
 In the next section we'll talk about how JSX lets you easily compose a UI, then we'll look at the differences with "normal HTML" that you need to know.
 
