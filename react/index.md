@@ -428,7 +428,7 @@ A button is responsible for knowing if it's being clicked, or not. If it's on fo
 
 A link is responsible for knowing if the mouse is hovering over it.
 
-In React, or in any other component-based framework/library, all our applications are based and make heavy use of components state.
+In React, or in any other component-based framework/library, all our applications are based and make heavy use of components' states.
 
 We manage state using the `useState` utility provided by React. It's technically a **hook** (you don't need to know the details of hooks right now, but that's what it is).
 
