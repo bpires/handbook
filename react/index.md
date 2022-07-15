@@ -685,7 +685,7 @@ Learn more theory about the [Virtual DOM](https://flaviocopes.com/react-virtual-
 
 Start building some simple React applications. For example, [build a simple counter](https://flaviocopes.com/react-example-counter/) or [interact with a public API](https://flaviocopes.com/react-example-githubusers/).
 
-Learn how to perform [conditional rendering](https://flaviocopes.com/react-conditional-rendering/), how to perform [loops in JSX](https://flaviocopes.com/react-how-to-loop/), how to use the [React Developer Tools](https://flaviocopes.com/react-developer-tools/).
+Learn how to perform [conditional rendering](https://flaviocopes.com/react-conditional-rendering/), how to perform [loops in JSX](https://flaviocopes.com/react-how-to-loop/), and how to use the [React Developer Tools](https://flaviocopes.com/react-developer-tools/).
 
 Learn how to apply CSS in a React application, with [plain CSS](https://flaviocopes.com/react-css/) or [Styled Components](https://flaviocopes.com/styled-components/).
 
