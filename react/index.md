@@ -357,7 +357,7 @@ React will try its best to make sure things don't break, but it will raise you a
 
 This is not the only HTML feature that suffers from this problem, but it's the most common one.
 
-Another big difference between JSX and HTML is that HTML is very _relaxed_, we can say. Even if you have an error in the syntax, or you close the wrong tag, or you have a mismatch, the browser will try its best to interpret the HTML without breaking.
+Another big difference between JSX and HTML is that HTML is very _relaxed_, we can say. Even if you have an error in the syntax, you close the wrong tag, or you have a mismatch, the browser will try its best to interpret the HTML without breaking.
 
 It's one of the core features of the Web. It is very forgiving.
 
