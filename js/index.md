@@ -1794,7 +1794,7 @@ Scope is the set of variables that's visible to a part of the program.
 
 In JavaScript we have a global scope, block scope and function scope.
 
-If a variable is defined outside of a function or block, it's attached to the global object and it has a global scope, which mean it's available in every part of a program.
+If a variable is defined outside of a function or block, it's attached to the global object and it has a global scope, which means it's available in every part of a program.
 
 There is a very important difference between `var`, `let` and `const` declarations.
 
