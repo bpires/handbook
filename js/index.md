@@ -72,7 +72,7 @@ JavaScript does not consider white space meaningful. Spaces and line breaks can 
 
 In practice, you will most likely keep a well-defined style and adhere to what people commonly use, and enforce this using a linter or a style tool such as _Prettier_.
 
-For example, I like to always 2 characters to indent.
+For example, I like to always use 2 characters to indent.
 
 ### Case sensitive
 
