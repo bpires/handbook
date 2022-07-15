@@ -339,7 +339,7 @@ With some differences, as we'll see in the next section.
 
 JSX kind of looks like HTML, but it's not.
 
-In this section I want to introduce you some of the most important things you need to keep in mind when using JSX.
+In this section, I want to introduce you some of the most important things you need to keep in mind when using JSX.
 
 One of the differences might be quite obvious if you looked at the `App` component JSX: there's a strange attribute called `className`.
 
