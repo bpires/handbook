@@ -568,7 +568,7 @@ const [count, setCount] = useState(0)
 <Counter setCount={setCount} />
 ```
 
-Inside the Counter component we can now grab the `setCount` prop and call it to update the `count` state in the parent component, when something happens:
+Inside the Counter component we can now grab the `setCount` prop and call it to update the `count` state in the parent component when something happens:
 
 ```js
 function Counter({ setCount }) {
