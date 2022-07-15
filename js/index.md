@@ -1189,7 +1189,7 @@ const car = {
 }
 ```
 
-here we have a `car` object with a property named `color`, with value `blue`.
+here we have a `car` object with a property named `color`, with the value `blue`.
 
 Labels can be any string, but beware special characters: if I wanted to include a character not valid as a variable name in the property name, I would have had to use quotes around it:
 
