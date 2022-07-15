@@ -1167,7 +1167,7 @@ anotherCar.color = 'yellow'
 car.color //'yellow'
 ```
 
-Even arrays or functions are, under the hoods, objects, so it's very important to understand how they work.
+Even arrays or functions are, under the hood, objects, so it's very important to understand how they work.
 
 ### Object Properties
 
