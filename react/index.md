@@ -448,7 +448,7 @@ Example:
 const [count, setCount] = useState(0)
 ```
 
-This is important. We can't just alter the value of a state variable directly. We must call its modifier function. Otherwise the React component will not update its UI to reflect the changes of the data. Calling the modifier is the way we can tell React that the component state has changed.
+This is important. We can't just alter the value of a state variable directly. We must call its modifier function. Otherwise, the React component will not update its UI to reflect the changes of the data. Calling the modifier is the way we can tell React that the component state has changed.
 
 The syntax is a bit weird, right? Since `useState()` returns an array we use array destructuring to access each individual item, like this: `const [count, setCount] = useState(0)`
 
