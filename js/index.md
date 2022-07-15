@@ -94,7 +94,7 @@ true
 
 ### Identifiers
 
-An **identifier** is a sequence of characters that can be used to identify a variable, a function, an object. It can start with a letter, the dollar sign `$` or an underscore `_`, and it can contain digits. Using Unicode, a letter can be any allowed char, for example, an emoji 😄.
+An **identifier** is a sequence of characters that can be used to identify a variable, a function, or an object. It can start with a letter, the dollar sign `$` or an underscore `_`, and it can contain digits. Using Unicode, a letter can be any allowed char, for example, an emoji 😄.
 
 ```js
 Test
