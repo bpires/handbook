@@ -487,7 +487,7 @@ if (false) {
 }
 ```
 
-The conditional checks the expression you pass to it for true or false value. If you pass a number, that always evaluates to true unless it's 0. If you pass a string, it always evaluates to true unless it's an empty string. Those are general rules of casting types to a boolean.
+The conditional checks the expression you pass to it for a true or false value. If you pass a number, that always evaluates to true unless it's 0. If you pass a string, it always evaluates to true unless it's an empty string. Those are general rules of casting types to a boolean.
 
 Did you notice the curly braces? That is called a **block**, and it is used to group a list of different statements.
 
