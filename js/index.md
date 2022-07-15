@@ -37,7 +37,7 @@ It was the first scripting language that was supported natively by web browsers,
 
 Other languages exist, but all must compile to JavaScript - or more recently to WebAssembly, but this is another story.
 
-In the beginnings, JavaScript was not nearly powerful as it is today, and it was mainly used for fancy animations and the marvel known at the time as _Dynamic HTML_.
+In the beginning, JavaScript was not nearly powerful as it is today, and it was mainly used for fancy animations and the marvel known at the time as _Dynamic HTML_.
 
 With the growing needs that the web platform demanded (and continues to demand), JavaScript _had_ the responsibility to grow as well, to accommodate the needs of one of the most widely used ecosystems of the world.
 
