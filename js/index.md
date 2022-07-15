@@ -1562,7 +1562,7 @@ The callback function is executed asynchronously.
 
 This is a very common pattern when working with the file system, the network, events, or the DOM in the browser.
 
-All of the things I mentioned are not "core" JavaScript, so they are not explained in this handbook, but you'll find lots of examples in my other handbooks available at <https://flaviocopes.com>.
+All of the things I mentioned are not "core" JavaScript, so they are not explained in this handbook, but you'll find lots of examples in my other handbooks available at [flaviocopes.com](https://flaviocopes.com).
 
 Here's how we can implement callbacks in our code.
 
