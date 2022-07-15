@@ -1128,7 +1128,7 @@ Another syntax is to use `Object.create()`:
 const car = Object.create()
 ```
 
-You can also initialize an object using the `new` keyword before a function with a capital letter. This function serves as a constructor for that object. In there, we can initialize the arguments we receive as parameters, to setup the initial state of the object:
+You can also initialize an object using the `new` keyword before a function with a capital letter. This function serves as a constructor for that object. In there, we can initialize the arguments we receive as parameters, to set up the initial state of the object:
 
 ```js
 function Car(brand, model) {
