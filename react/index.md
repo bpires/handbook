@@ -48,7 +48,7 @@ You don't have to be an expert, but I think you need a good overview of:
 - [Callbacks](https://flaviocopes.com/javascript-callbacks/)
 - [ES Modules](https://flaviocopes.com/es-modules/)
 
-If those concepts sound unfamiliar, I provided you some links to find out more about those subjects.
+If those concepts sound unfamiliar, I provided you with some links to find out more about those subjects.
 
 ## Why should you learn React?
 
