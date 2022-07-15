@@ -589,7 +589,7 @@ const a = [1, 2, 3]
 a.length //3
 ```
 
-Note that you can set the length of the array. If you assign a bigger number than the arrays current capacity, nothing happens. If you assign a smaller number, the array is cut at that position:
+Note that you can set the length of the array. If you assign a bigger number than the array's current capacity, nothing happens. If you assign a smaller number, the array is cut at that position:
 
 ```js
 const a = [1, 2, 3]
