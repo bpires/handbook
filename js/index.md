@@ -1718,7 +1718,7 @@ const getData = () => {
 }
 ```
 
-Any code that want to use this function will use the `await` keyword right before the function:
+Any code that wants to use this function will use the `await` keyword right before the function:
 
 ```js
 const data = await getData()
