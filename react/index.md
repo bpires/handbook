@@ -33,7 +33,7 @@ React in itself has a very small API, and you basically need to understand 4 con
 
 We'll explore all of these in this book, and we'll leave the more advanced concepts to other learning resources.
 
-## How much JavaScript you need to know to use React?
+## How much JavaScript do you need to know to use React?
 
 Before jumping straight into React, you should have a good understanding of some core JavaScript concepts.
 
