@@ -185,7 +185,7 @@ A component can have its own **state**, which means it encapsulates some variabl
 
 A component can also receive data from other components. In this case, we talk about **props**.
 
-Don't worry, we're going to look in details at all those terms (JSX, State and Props) soon.
+Don't worry, we're going to look in detail at all those terms (JSX, State and Props) soon.
 
 ## Introduction to JSX
 
