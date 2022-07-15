@@ -349,7 +349,7 @@ But there's a problem. We are writing this UI code in a JavaScript file, and `cl
 
 That's how we ended up with `className` instead of `class`.
 
-You need to remember this especially when you're copy/pasting some existing HTML.
+You need to remember this especially when you're copying/pasting some existing HTML.
 
 React will try its best to make sure things don't break, but it will raise you a lot of warnings in the Developer Tools:
 
