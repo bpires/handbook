@@ -1676,7 +1676,7 @@ and we pass a function in the Promise constructor:
 const doSomething = new Promise(() => {})
 ```
 
-This function receives 2 parameters. The first is a function we call to resolve the promise, the second a function we call to reject the promise.
+This function receives 2 parameters. The first is a function we call to resolve the promise, the second is a function we call to reject the promise.
 
 ```js
 const doSomething = new Promise((resolve, reject) => {})
