@@ -408,7 +408,7 @@ Inside the curly brackets `{ }` we can add any JavaScript statement, but _just o
 
 And the statement must return something.
 
-For example, this is a common statement you will find in JSX. We have a ternary operator where we define a condition (`message === 'Hello!'`), and we print one value if the condition is true, or another value (the content of `message` in this case) if the condition is false:
+For example, this is a common statement you will find in JSX. We have a ternary operator where we define a condition (`message === 'Hello!'`), and we print one value if the condition is true, or another value (the content of `message`, in this case) if the condition is false:
 
 ```js
 {
