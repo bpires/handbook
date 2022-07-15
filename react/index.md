@@ -259,7 +259,7 @@ React gives us this interface for one reason: **it's easier to build UI interfac
 
 Once you get more familiar with it, of course.
 
-In the next section we'll talk about how JSX lets you easily compose a UI, then we'll look at the differences with "normal HTML" that you need to know.
+In the next section, we'll talk about how JSX lets you easily compose a UI, then we'll look at the differences with "normal HTML" that you need to know.
 
 ## Using JSX to compose UI
 
