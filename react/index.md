@@ -56,7 +56,7 @@ I highly recommend any Web developer to have at least a basic understanding of R
 
 That's because of a few reasons.
 
-1. React is very popular. As a developer, it's quite likely that you're going to work on a React project in the future. Perhaps an existing project, or maybe your team will want you to work on a brand new app based on React.
+1. React is very popular. As a developer, it's quite likely that you're going to work on a React project in the future. Perhaps an existing project, or maybe your team will want you to work on a brand-new app based on React.
 2. A lot of tooling today is built using React at the core. Popular frameworks and tools like Next.js, Gatsby and many others use React under the hood.
 3. As a frontend engineer, React is probably going to come up in a job interview.
 
