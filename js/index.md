@@ -326,7 +326,7 @@ I already introduced one when talking about variables: the assignment operator `
 let b = 2
 ```
 
-Let's now introduce another set of binary operators that you already familiar with, from basic math.
+Let's now introduce another set of binary operators that you are already familiar with, from basic math.
 
 ### The addition operator (+)
 
