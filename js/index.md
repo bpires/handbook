@@ -318,7 +318,7 @@ Operators allow you to get two simple expressions and combine them to form a mor
 
 We can classify operators based on the operands they work with. Some operators work with 1 operand. Most with 2 operands. Just one operator works with 3 operands.
 
-In this first introduction to operators, we'll introduce the operators you are most likely familar with: binary operators.
+In this first introduction to operators, we'll introduce the operators you are most likely familiar with: binary operators.
 
 I already introduced one when talking about variables: the assignment operator `=`. You use `=` to assign a value to a variable:
 
