@@ -442,7 +442,7 @@ After assignment and math operators, the third set of operators I want to introd
 
 You can use the following operators to compare two numbers, or two strings.
 
-Comparison operators always returns a boolean, a value that's `true` or `false`).
+Comparison operators always return a boolean, a value that's `true` or `false`).
 
 Those are **disequality comparison operators**:
 
