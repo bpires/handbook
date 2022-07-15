@@ -1508,7 +1508,7 @@ flavio.hello()
 
 The above program prints _Hello, I am a Person. I am also a programmer._.
 
-## Asynchonous Programming and Callbacks
+## Asynchronous Programming and Callbacks
 
 Most of the time, JavaScript code is ran synchronously.
 
