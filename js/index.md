@@ -772,7 +772,7 @@ Loops are one of the main control structures of JavaScript.
 
 With a loop we can automate and repeat indefinitely a block of code, for how many times we want it to run.
 
-JavaScript provides many way to iterate through loops.
+JavaScript provides many ways to iterate through loops.
 
 I want to focus on 3 ways:
 
