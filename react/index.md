@@ -16,7 +16,7 @@ Those topics will be the base upon which you will work on in other more advanced
 
 This book is especially oriented towards JavaScript programmers new to React.
 
-React is a JavaScript library that aims to simplify development of visual interfaces.
+React is a JavaScript library that aims to simplify the development of visual interfaces.
 
 Developed at Facebook and released to the world in 2013, it drives some of the most widely used apps, powering Facebook and Instagram among countless other applications.
 
