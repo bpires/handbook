@@ -881,7 +881,7 @@ function getData() {
 }
 ```
 
-A function can be run any times you want by invoking it, like this:
+A function can be run any time you want by invoking it, like this:
 
 ```js
 getData()
