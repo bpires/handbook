@@ -183,7 +183,7 @@ In addition to defining some JSX to return, a component has several other charac
 
 A component can have its own **state**, which means it encapsulates some variables that other components can't access unless this component exposes this state to the rest of the application.
 
-A component can also receive data from other components. In this case we talk about **props**.
+A component can also receive data from other components. In this case, we talk about **props**.
 
 Don't worry, we're going to look in details at all those terms (JSX, State and Props) soon.
 
