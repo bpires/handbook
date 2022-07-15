@@ -1682,7 +1682,7 @@ This function receives 2 parameters. The first is a function we call to resolve 
 const doSomething = new Promise((resolve, reject) => {})
 ```
 
-Resolving a promise means complete it successfully (which results in calling the `then()` method in who uses it).
+Resolving a promise means completing it successfully (which results in calling the `then()` method in who uses it).
 
 Rejecting a promise means ending it with an error (which results in calling the `catch()` method in who uses it).
 
