@@ -520,7 +520,7 @@ function WelcomeMessage({ myprop }) {
 }
 ```
 
-Now that we have the prop, we can use it inside the component, for example we can print its value in the JSX:
+Now that we have the prop, we can use it inside the component, for example, we can print its value in the JSX:
 
 ```js
 function WelcomeMessage({ myprop }) {
