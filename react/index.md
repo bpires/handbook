@@ -74,13 +74,13 @@ To start with, I highly recommend one approach, and that's using the officially 
 
 You start by using `npx`, which is an easy way to download and execute Node.js commands without installing them.
 
-> See my npx guide here: <https://flaviocopes.com/npx/>
+> See my npx guide here: [flaviocopes.com/npx/](https://flaviocopes.com/npx/)
 
-`npx` comes with `npm` (since version 5.2) and if you don't have npm installed already, do it now from <https://nodejs.org> (npm is installed with Node).
+`npx` comes with `npm` (since version 5.2) and if you don't have npm installed already, do it now from [nodejs.org](https://nodejs.org) (npm is installed with Node).
 
 If you are unsure which version of npm you have, run `npm -v` to check if you need to update.
 
-> Tip: check out my OSX terminal tutorial at <https://flaviocopes.com/macos-terminal/> if you're unfamiliar with using the terminal, applies to Mac and Linux.
+> Tip: check out my OSX terminal tutorial at [flaviocopes.com/macos-terminal/](https://flaviocopes.com/macos-terminal/) if you're unfamiliar with using the terminal, applies to Mac and Linux.
 
 When you run `npx create-react-app <app-name>`, `npx` is going to _download_ the most recent `create-react-app` release, run it, and then remove it from your system. This is great because you will never have an outdated version on your system, and every time you run it, you're getting the latest and greatest code available.
 
