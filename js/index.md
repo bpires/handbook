@@ -914,7 +914,7 @@ getData('green', 24)
 getData('black')
 ```
 
-Note that in the second invokation I passed the `black` string parameter as the `color` argument, but no `age`. In this case, `age` inside the function is `undefined`.
+Note that in the second invocation I passed the `black` string parameter as the `color` argument, but no `age`. In this case, `age` inside the function is `undefined`.
 
 We can check if a value is not undefined using this conditional:
 
