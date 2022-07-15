@@ -1872,7 +1872,7 @@ but if you switch to `let`, you'll get an error `ReferenceError: data is not def
 
 `const` follows the same rules as `let`: it's block scoped.
 
-It can be tricky at first, but once you realize this difference, then you'll see why `var` is considered a bad practice nowadays compared to `let`: they do have less moving parts, and their scope is limited to the block, which also makes them very good as loop variables, because they cease to exist after a loop has ended:
+It can be tricky at first, but once you realize this difference, then you'll see why `var` is considered a bad practice nowadays compared to `let`: they do have fewer moving parts, and their scope is limited to the block, which also makes them very good as loop variables, because they cease to exist after a loop has ended:
 
 ```js
 function doLoop() {
