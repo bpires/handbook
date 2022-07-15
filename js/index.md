@@ -237,7 +237,7 @@ My advice is to always use `const` and only use `let` when you know you'll need 
 
 Now that we saw how to work with `const` and `let`, I want to mention `var`.
 
-Until 2015, `var` was the only way we could declare a variable in JavaScript. Today, a modern codebase will most likely just use `const` and `let`. There are some fundamental differences which I detail [in this post](https://flaviocopes.com/javascript-difference-let-var/) but if you're just starting out, you might not care about. Just use `const` and `let`.
+Until 2015, `var` was the only way we could declare a variable in JavaScript. Today, a modern codebase will most likely just use `const` and `let`. There are some fundamental differences which I detail [in this post](https://flaviocopes.com/javascript-difference-let-var/) but if you're just starting out, you might not care about them. Just use `const` and `let`.
 
 ## Types
 
