@@ -70,7 +70,7 @@ In this little introduction I want to tell you about 5 concepts:
 
 JavaScript does not consider white space meaningful. Spaces and line breaks can be added in any fashion you might like, even though this is _in theory_.
 
-In practice, you will most likely keep a well defined style and adhere to what people commonly use, and enforce this using a linter or a style tool such as _Prettier_.
+In practice, you will most likely keep a well-defined style and adhere to what people commonly use, and enforce this using a linter or a style tool such as _Prettier_.
 
 For example, I like to always 2 characters to indent.
 
