@@ -54,9 +54,7 @@ In the same way, on the server, it can be sometimes hard to separate the JavaScr
 
 Is a particular feature provided by React or Vue? Or is it "plain JavaScript", or "vanilla JavaScript" as often called?
 
-In this book I talk about JavaScript, the language.
-
-Without complicating your learning process with things that are outside of it, and provided by external ecosystems.
+In this book I talk about JavaScript, the language, without complicating your learning process with things that are outside of it, and provided by external ecosystems.
 
 ## A brief intro to the syntax of JavaScript
 
