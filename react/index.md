@@ -387,7 +387,7 @@ We import the `logo` SVG file using
 import logo from './logo.svg'
 ```
 
-and then in the JSX we assign this SVG file to the `src` attribute of an `img` tag:
+and then, in the JSX, we assign this SVG file to the `src` attribute of an `img` tag:
 
 ```js
 <img src={logo} class='App-logo' alt='logo' />
