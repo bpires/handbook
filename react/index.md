@@ -323,7 +323,7 @@ function App() {
 export default App
 ```
 
-And here's the result. Can you see the "Welcome!" message in the screen?
+And here's the result. Can you see the "Welcome!" message on the screen?
 
 ![](img/new-component.png)
 
