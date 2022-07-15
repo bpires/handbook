@@ -269,7 +269,7 @@ In particular, in a React component, you can import other React components, and 
 
 A React component is usually created in its own file, because that's how we can easily reuse it (by importing it) in other components.
 
-But a React component can also be created in the same file of another component, if you plan to only use it in that component. There's no "rule" here, you can do what feels best to you.
+But a React component can also be created in the same file of another component if you plan to only use it in that component. There's no "rule" here, you can do what feels best to you.
 
 I generally use separate files when the number of lines in a file grows too much.
 
